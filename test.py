@@ -1,0 +1,1 @@
+number =str(input("\nEnter the number you want to find the location : "))
